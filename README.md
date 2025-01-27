@@ -1,6 +1,6 @@
-<!-- ![Header](https://github.com/KHADAKOUSKAYANATALLIA/KHADAKOUSKAYANATALLIA/blob/main/Assets/rabochee-mesto-qa-inzhenera.jpg) -->
+![Header](https://github.com/KHADAKOUSKAYANATALLIA/KHADAKOUSKAYANATALLIA/blob/main/Assets/rabochee-mesto-qa-inzhenera.jpg)
 
-![Header](https://github.com/KHADAKOUSKAYANATALLIA/KHADAKOUSKAYANATALLIA/blob/main/Assets/rabochee_mesto.jpg)
+<!-- ![Header](https://github.com/KHADAKOUSKAYANATALLIA/KHADAKOUSKAYANATALLIA/blob/main/Assets/rabochee_mesto.jpg) -->
 
 ## Portfolio QA Engineer
 
