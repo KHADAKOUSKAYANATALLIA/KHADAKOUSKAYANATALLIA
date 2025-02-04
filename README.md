@@ -7,7 +7,7 @@
 Here I want to share my portfolio in web and mobile testing, compiled on educational projects.
 
 ## Quick Facts:
-- Specializes in functional (manual) testing of web and mobile applications
+- Specializes in manual testing of web and mobile applications
 - Mentor of Sandbox_Web on commercial practice in manual testing from [QA Course](https://www.linkedin.com/company/qa-course-by-vadim-ksendzov/posts/) Vadim Ksendzov
 - Doing a commercial internship at [ITX](https://www.linkedin.com/company/itxqa/) 
 (Testing the site [capital.com](https://capital.com/en-au) (Prod version))
@@ -91,3 +91,13 @@ Web Application Testing
 Mobile Application Testing
 Postman Collections for API Testing
 Database Queries -->
+
+## Courses
+- GeekBrains | QA Engineer <br>
+December 2022 - March 2024 <br>
+<!-- ![Certificate]() -->
+
+- Stepik | Author of the course - Artsiom Rusau QA <br>
+Software testing from scratch. Theory + Practice <br> 
+November 2024 <br>
+<!-- ![Certificate]() -->
