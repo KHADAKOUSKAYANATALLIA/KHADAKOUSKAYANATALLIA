@@ -95,10 +95,10 @@ Database Queries -->
 ## Courses
 - GeekBrains | QA Engineer <br>
 December 2022 - March 2024 <br>
-![Certificate](https://drive.google.com/file/d/1J66Oi5q6BL_zYmaM4k5yRtAwo9X4_TxB/view?usp=sharing)
+[Certificate](https://drive.google.com/file/d/1J66Oi5q6BL_zYmaM4k5yRtAwo9X4_TxB/view?usp=sharing)
 - Stepik | Author of the course - Artsiom Rusau QA <br>
 Software testing from scratch. Theory + Practice <br> 
 November 2024 <br>
-![Certificate](https://drive.google.com/file/d/1py2Lds_mjsmmzNrqfgA9WJQr0ii3jR_q/view?usp=sharing)
+[Certificate](https://drive.google.com/file/d/1py2Lds_mjsmmzNrqfgA9WJQr0ii3jR_q/view?usp=sharing)
 
 
