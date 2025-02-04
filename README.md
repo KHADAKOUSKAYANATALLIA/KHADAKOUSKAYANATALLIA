@@ -1,12 +1,12 @@
 ![Header](https://github.com/KHADAKOUSKAYANATALLIA/KHADAKOUSKAYANATALLIA/blob/main/Assets/rabochee-mesto-qa-inzhenera.jpg)
 
-## Portfolio QA Engineer
+# Portfolio QA Engineer
 
 ## Hi, I'm Natasha, a QA specialist!
 
 Here I want to share my portfolio in web and mobile testing, compiled on educational projects.
 
-## Quick Facts:
+## About me:
 - Specializes in manual testing of web and mobile applications
 - Mentor of Sandbox_Web on commercial practice in manual testing from [QA Course](https://www.linkedin.com/company/qa-course-by-vadim-ksendzov/posts/) Vadim Ksendzov
 - Doing a commercial internship at [ITX](https://www.linkedin.com/company/itxqa/) 
@@ -72,18 +72,42 @@ Here I want to share my portfolio in web and mobile testing, compiled on educati
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHADAKOUSKAYANATALLIA&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## Test Artifacts
+# Test Artifacts
 The links below contain test artifacts related to topics studied in educational projects.
 
-- Checklists 
+## Checklists
+-
+-
+-
+
+## Test cases
+-
+-
+-
+
+## Bug reports
+-
+-
+-
+
+## Postman Collections
+-
+-
+-
+
+## Database Queries
+-
+-
+-
+<!-- - Checklists  -->
 <!-- [Check-lists] (ссылка на сайт) -->
-- Test cases
+<!-- - Test cases -->
 <!-- [Test cases] (ссылка на сайт) -->
-- Bug reports
+<!-- - Bug reports -->
 <!-- [Bug reports] (ссылка на сайт) -->
-- Postman Collections
+<!-- - Postman Collections -->
 <!-- [Postman Collections] (ссылка на сайт) -->
-- Database Queries
+<!-- - Database Queries -->
 <!-- [Database Queries] (ссылка на сайт) -->
 
 <!-- Testing Documentation (чек-листы, тест-кейсы, баг-репорты)
