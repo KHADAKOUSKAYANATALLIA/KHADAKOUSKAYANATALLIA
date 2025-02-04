@@ -95,9 +95,9 @@ Database Queries -->
 ## Courses
 - GeekBrains | QA Engineer <br>
 December 2022 - March 2024 <br>
-<!-- ![Certificate]() -->
+![Certificate](https://github.com/KHADAKOUSKAYANATALLIA/KHADAKOUSKAYANATALLIA/blob/main/Certificate/Diploma_GeekBrains.jpg)
 
 - Stepik | Author of the course - Artsiom Rusau QA <br>
 Software testing from scratch. Theory + Practice <br> 
 November 2024 <br>
-<!-- ![Certificate]() -->
+![Certificate](https://github.com/KHADAKOUSKAYANATALLIA/KHADAKOUSKAYANATALLIA/blob/main/Certificate/Certificate_Stepik%20(en).pdf)
