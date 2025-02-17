@@ -75,10 +75,10 @@ Here I want to share my portfolio in web and mobile testing, compiled on educati
 The links below contain test artifacts related to topics studied in educational projects.
 
 ## Checklists
-- [Чек-лист](https://github.com/KHADAKOUSKAYANATALLIA/Checklists/blob/main/FoodBuzz/foodbuzz.md) на раздел «Вкусное меню на сегодня» [проекта](https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html)
-- [Чек-лист](https://github.com/KHADAKOUSKAYANATALLIA/Checklists/blob/main/Conference_landing/landing.md) «Лендинг конференции по тестированию» [проекта](https://test-stand.gb.ru/seminar_stands/umeet/index.html)
+- [Checklist](https://github.com/KHADAKOUSKAYANATALLIA/Checklists/blob/main/FoodBuzz/foodbuzz.md) for the section "Delicious menu for today" of the [project](https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html) "Foodbuzz"
+- [Checklist](https://github.com/KHADAKOUSKAYANATALLIA/Checklists/blob/main/Conference_landing/landing.md) "Landing page for testing conferences"
 
-## Test cases
+<!-- ## Test cases
 -
 -
 -
@@ -96,7 +96,7 @@ The links below contain test artifacts related to topics studied in educational 
 ## Database Queries
 -
 -
--
+- -->
 <!-- - Checklists  -->
 <!-- [Check-lists] (ссылка на сайт) -->
 <!-- - Test cases -->
