@@ -78,12 +78,12 @@ The links below contain test artifacts related to topics studied in educational 
 - [Checklist](https://github.com/KHADAKOUSKAYANATALLIA/Checklists/blob/main/FoodBuzz/foodbuzz.md) for the section "Delicious menu for today" of the [project](https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html) "Foodbuzz"
 - [Checklist](https://github.com/KHADAKOUSKAYANATALLIA/Checklists/blob/main/Conference_landing/landing.md) "Landing page for conferences on testing"
 
-<!-- ## Test cases
--
--
--
+## Test cases
+- [Test cases](https://github.com/KHADAKOUSKAYANATALLIA/Test_cases/blob/main/FoodBuzz/foodbuzz.md) for the [project](https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html) "Foodbuzz"
+- [Test cases](https://github.com/KHADAKOUSKAYANATALLIA/Test_cases/blob/main/FoodBuzz/foodbuzz.md) for the section "Our Blog" of the [project](https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html) "Foodbuzz"
+- [Test cases](https://github.com/KHADAKOUSKAYANATALLIA/Test_cases/blob/main/Conference_landing/landing.md) "Landing page for conferences on testing"
 
-## Bug reports
+<!-- ## Bug reports
 -
 -
 -
