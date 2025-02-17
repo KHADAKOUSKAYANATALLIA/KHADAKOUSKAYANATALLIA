@@ -75,9 +75,8 @@ Here I want to share my portfolio in web and mobile testing, compiled on educati
 The links below contain test artifacts related to topics studied in educational projects.
 
 ## Checklists
--
--
--
+- [Чек-лист](https://github.com/KHADAKOUSKAYANATALLIA/Checklists/blob/main/FoodBuzz/foodbuzz.md) на раздел «Вкусное меню на сегодня» [проекта](https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html)
+- [Чек-лист](https://github.com/KHADAKOUSKAYANATALLIA/Checklists/blob/main/Conference_landing/landing.md) «Лендинг конференции по тестированию» [проекта](https://test-stand.gb.ru/seminar_stands/umeet/index.html)
 
 ## Test cases
 -
