@@ -11,7 +11,7 @@ Here I want to share my portfolio in web and mobile testing, compiled on educati
 - Mentor of Sandbox_Web on commercial practice in manual testing from [QA Course](https://www.linkedin.com/company/qa-course-by-vadim-ksendzov/posts/) Vadim Ksendzov
 - Doing a commercial internship at [ITX](https://www.linkedin.com/company/itxqa/) 
 (Testing the site [capital.com](https://capital.com/en-au) (Prod version))
-- I have a [resume](file:///D:/%D0%9D%D0%B0%D1%82%D0%B0%D1%88%D0%B0/HTML_CV/index.html)
+- My [resume]()
 
 ## How to Contact Me:
 
