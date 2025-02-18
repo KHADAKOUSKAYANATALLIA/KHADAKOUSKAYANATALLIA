@@ -68,9 +68,6 @@ Here I want to share my portfolio in web and mobile testing, compiled on educati
 <img src="Tools/Google_Chrome.png" alt="Chrome" width="50" height="50">
 </div>
 
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHADAKOUSKAYANATALLIA&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
 # Test Artifacts
 The links below contain test artifacts related to topics studied in educational projects.
 
@@ -83,12 +80,13 @@ The links below contain test artifacts related to topics studied in educational 
 - [Test cases](https://github.com/KHADAKOUSKAYANATALLIA/Test_cases/blob/main/FoodBuzz/foodbuzz.md) for the section "Our Blog" of the [project](https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html) "Foodbuzz"
 - [Test cases](https://github.com/KHADAKOUSKAYANATALLIA/Test_cases/blob/main/Conference_landing/landing.md) "Landing page for conferences on testing"
 
-<!-- ## Bug reports
--
--
--
+## Bug reports
+- [Bug reports](https://docs.google.com/spreadsheets/d/1KXn-ks0aE1BXeDi08yEBSH-jhCDHGWL-/edit?gid=1267488843#gid=1267488843) for the section "Delicious menu for today" of the project "Foodbuzz"
+- [Bug reports](https://docs.google.com/spreadsheets/d/1GEbQfVZHDiEtcVkCBQ1T3Kzl-s_BvgnU/edit?gid=1642956064#gid=1642956064) on the ticket from tech support
+- [Bug reports](https://docs.google.com/spreadsheets/d/1LJ84Lf3KOqikcyOVfStR8dau54k9wjdb/edit?gid=1263232277#gid=1263232277) for the sections "Today's Menu" and "Our Chefs" for the [project](https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html) "Foodbuzz"
+- [Bug reports](https://docs.google.com/spreadsheets/d/16R816KGJMfMPlOI9uESOzzEefvp-RXKn/edit?gid=57769130#gid=57769130) "Landing page for conferences on testing"
 
-## Postman Collections
+<!-- ## Postman Collections
 -
 -
 -
@@ -97,22 +95,6 @@ The links below contain test artifacts related to topics studied in educational 
 -
 -
 - -->
-<!-- - Checklists  -->
-<!-- [Check-lists] (ссылка на сайт) -->
-<!-- - Test cases -->
-<!-- [Test cases] (ссылка на сайт) -->
-<!-- - Bug reports -->
-<!-- [Bug reports] (ссылка на сайт) -->
-<!-- - Postman Collections -->
-<!-- [Postman Collections] (ссылка на сайт) -->
-<!-- - Database Queries -->
-<!-- [Database Queries] (ссылка на сайт) -->
-
-<!-- Testing Documentation (чек-листы, тест-кейсы, баг-репорты)
-Web Application Testing
-Mobile Application Testing
-Postman Collections for API Testing
-Database Queries -->
 
 ## Courses
 - Stepik | Author of the course - Artsiom Rusau QA <br>
