@@ -74,6 +74,7 @@ The links below contain test artifacts related to topics studied in educational 
 ## Checklists
 - [Checklist](https://github.com/KHADAKOUSKAYANATALLIA/Checklists/blob/main/FoodBuzz/foodbuzz.md) for the section "Delicious menu for today" of the [project](https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html) "Foodbuzz"
 - [Checklist](https://github.com/KHADAKOUSKAYANATALLIA/Checklists/blob/main/Conference_landing/landing.md) "Landing page for conferences on testing"
+- [Checklist](https://github.com/KHADAKOUSKAYANATALLIA/Checklists/blob/main/Modal_Window/modal_window.md) "Modal window for payment of goods"
 
 ## Test cases
 - [Test cases](https://github.com/KHADAKOUSKAYANATALLIA/Test_cases/blob/main/FoodBuzz/foodbuzz.md) for the [project](https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html) "Foodbuzz"
