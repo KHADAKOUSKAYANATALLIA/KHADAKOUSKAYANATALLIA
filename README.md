@@ -66,7 +66,7 @@ Here I want to share my portfolio in web and mobile testing, compiled on educati
 <img src="Tools/GitHub.png" alt="GitHub" width="50" height="50">
 <img src="Tools/VS_Code.jpeg" alt="VS_Code" width="50" height="50">
 <img src="Tools/Google_Chrome.png" alt="Chrome" width="50" height="50">
-<img src="Tools/ClickUp.png" alt="ClickUP" width="50" height="50">
+<img src="Tools/ClickUp.jpg" alt="ClickUP" width="50" height="50">
 </div>
 
 # Test Artifacts
