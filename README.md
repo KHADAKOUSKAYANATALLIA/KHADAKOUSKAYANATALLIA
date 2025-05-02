@@ -83,10 +83,10 @@ The links below contain test artifacts related to topics studied in educational 
 - [Test cases](https://github.com/KHADAKOUSKAYANATALLIA/Test_cases/blob/main/Conference_landing/landing.md) "Landing page for conferences on testing"
 
 ## Bug reports
-- [Bug reports](https://docs.google.com/spreadsheets/d/1KXn-ks0aE1BXeDi08yEBSH-jhCDHGWL-/edit?gid=1267488843#gid=1267488843) for the section "Delicious menu for today" of the project "Foodbuzz"
-- [Bug reports](https://docs.google.com/spreadsheets/d/1GEbQfVZHDiEtcVkCBQ1T3Kzl-s_BvgnU/edit?gid=1642956064#gid=1642956064) on the ticket from tech support
-- [Bug reports](https://docs.google.com/spreadsheets/d/1LJ84Lf3KOqikcyOVfStR8dau54k9wjdb/edit?gid=1263232277#gid=1263232277) for the sections "Today's Menu" and "Our Chefs" for the [project](https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html) "Foodbuzz"
-- [Bug reports](https://docs.google.com/spreadsheets/d/16R816KGJMfMPlOI9uESOzzEefvp-RXKn/edit?gid=57769130#gid=57769130) "Landing page for conferences on testing"
+- [Bug reports - Task_1](https://github.com/KHADAKOUSKAYANATALLIA/Bug_reports/blob/main/FoodBuzz/foodbuzz.md) for the section "Delicious menu for today" of the project "Foodbuzz"
+- [Bug reports - Task_2](https://github.com/KHADAKOUSKAYANATALLIA/Bug_reports/blob/main/FoodBuzz/foodbuzz.md) on the ticket from tech support
+- [Bug reports - Task_3](https://github.com/KHADAKOUSKAYANATALLIA/Bug_reports/blob/main/FoodBuzz/foodbuzz.md) for the sections "Today's Menu" and "Our Chefs" for the [project](https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html) "Foodbuzz"
+- [Bug reports](https://github.com/KHADAKOUSKAYANATALLIA/Bug_reports/blob/main/Conference_landing/landing.md) "Landing page for conferences on testing"
 
 <!-- ## Postman Collections
 -
