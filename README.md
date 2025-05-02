@@ -88,12 +88,12 @@ The links below contain test artifacts related to topics studied in educational 
 - [Bug reports - Task_3](https://github.com/KHADAKOUSKAYANATALLIA/Bug_reports/blob/main/FoodBuzz/foodbuzz.md) for the sections "Today's Menu" and "Our Chefs" for the [project](https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html) "Foodbuzz"
 - [Bug reports](https://github.com/KHADAKOUSKAYANATALLIA/Bug_reports/blob/main/Conference_landing/landing.md) "Landing page for conferences on testing"
 
-<!-- ## Postman Collections
+## Postman Collections
 -
 -
 -
 
-## Database Queries
+<!-- ## Database Queries
 -
 -
 - -->
