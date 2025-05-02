@@ -89,7 +89,7 @@ The links below contain test artifacts related to topics studied in educational 
 - [Bug reports](https://github.com/KHADAKOUSKAYANATALLIA/Bug_reports/blob/main/Conference_landing/landing.md) "Landing page for conferences on testing"
 
 ## Postman Collection
--
+- [Collection](https://github.com/KHADAKOUSKAYANATALLIA/Postman_API/blob/main/Create_Post/Post.md) "Create Post"
 
 <!-- ## Database Queries
 -
