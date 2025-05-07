@@ -66,11 +66,11 @@ This repository showcases my portfolio of test artifacts from educational projec
 <img src="Tools/VS_Code.jpeg" alt="VS_Code" width="50" height="50">
 <img src="Tools/Google_Chrome.png" alt="Chrome" width="50" height="50">
 <img src="Tools/ClickUP.png" alt="ClickUP" width="50" height="50">
+<img src="Tools/Miro.png" alt="Miro" width="50" height="50">
 </div>
 
 # 🧩Test Artifacts
-The repository includes checklists, test cases, and bug reports created as part of educational projects and QA courses.
-
+The repository includes checklists, test cases, and bug reports created as part of educational projects and QA courses.<br>
 The materials demonstrate my practical skills in manual testing of web applications.
 
 ## 📋Checklists
