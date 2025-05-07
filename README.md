@@ -107,7 +107,7 @@ The materials demonstrate my practical skills in manual testing of web applicati
 - 🔄 [State transition diagrams](https://github.com/KHADAKOUSKAYANATALLIA/Test_Design_Techniques/blob/main/State%20Transition%20Diagram/Diagram.md)
 - 🗂️ [Decision tables](https://github.com/KHADAKOUSKAYANATALLIA/Test_Design_Techniques/blob/main/Decision%20Tables/Decision.md)
 - 👥 [Scenario-based testing (user scenarios)](https://github.com/KHADAKOUSKAYANATALLIA/Test_Design_Techniques/blob/main/User%20Scenario%20Testing/UseCase.md) 
-- 🗒️ [Test reporting](https://github.com/KHADAKOUSKAYANATALLIA/Test_Design_Techniques/blob/main/Test%20report/Report.md)
+- 📄 [Test reporting](https://github.com/KHADAKOUSKAYANATALLIA/Test_Design_Techniques/blob/main/Test%20report/Report.md)
 
 
 
