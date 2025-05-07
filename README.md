@@ -10,7 +10,7 @@ This repository showcases my portfolio of test artifacts from educational projec
 - 👋Specialize in manual testing of web applications.
 - 🛠️Currently,  I lead the Sandbox_Web intensive on web testing as part of the commercial practice at Vadim Ksendzov's [QA Course](https://www.linkedin.com/company/qa-course-by-vadim-ksendzov/posts/).
 - 💻Additionally, I am completing a QA internship at [ITX](https://www.linkedin.com/company/itxqa/), where I perform functional testing of the site [capital.com](https://capital.com/en-au) (Prod version)
-- 📄 My [resume](https://drive.google.com/file/d/1RuB_TRpV8S4M77Jzc0eiWQV79jqUb6rB/view?usp=sharing) (PDF) is available here.
+- 📄 My resume (PDF) is available [here](https://drive.google.com/file/d/1RuB_TRpV8S4M77Jzc0eiWQV79jqUb6rB/view?usp=sharing).
 
 ## How to Contact Me:
 
